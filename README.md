@@ -1,2 +1,2 @@
-# admin-post-info
-WordPress Post Info
+# Admin Post Info
+Display the page / post URL and template.
