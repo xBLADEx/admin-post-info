@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Admin Post Info
- * Plugin URI: https://www.richedmunds.com
  * Description: Display the page or post relative URL and template.
  * Author: Rich Edmunds
  * Author URI: https://www.richedmunds.com
