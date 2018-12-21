@@ -37,29 +37,3 @@ function rich_edmunds_add_column( $column_name, $post_id ) {
 
 add_filter( 'manage_page_posts_custom_column', 'rich_edmunds_add_column', 10, 2 );
 add_filter( 'manage_post_posts_custom_column', 'rich_edmunds_add_column', 10, 2 );
-
-/* @todo Figure out sorting.
-function rich_edmunds_sortable_column( $columns ) {
-	$columns['template'] = 'custom_template';
-
-	return $columns;
-}
-
-add_filter( 'manage_edit-page_sortable_columns', 'rich_edmunds_sortable_column' );
-add_filter( 'manage_edit-post_sortable_columns', 'rich_edmunds_sortable_column' );
-
-function rich_edmunds_sort_template( $query ) {
-	if ( ! is_admin() || ! $query->is_main_query() ) {
-		return;
-	}
-
-	$order_by = 'template' === $query->get( 'orderby' );
-
-	if ( $order_by ) {
-		$query->set( 'meta_key', 'custom_template' );
-		$query->set( 'orderby', 'meta_value' );
-	}
-}
-
-add_action( 'pre_get_posts', 'rich_edmunds_sort_template', 1 );
-*/
