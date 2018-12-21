@@ -1,2 +1,2 @@
 # Admin Post Info
-Display the page / post URL and template.
+Display the page or post relative URL and template.

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Admin Post Info
  * Plugin URI: https://www.richedmunds.com
- * Description: Display url and other info about posts on overview screen.
+ * Description: Display the page or post relative URL and template.
  * Author: Rich Edmunds
  * Author URI: https://www.richedmunds.com
  * Text Domain: custom
