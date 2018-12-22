@@ -22,7 +22,7 @@ N/A
 Version: 1.0 - Launch
 
 == Upgrade Notice ==
-N/A
+1. N/A
 
 == Screenshots ==
-N/A
+1. N/A
