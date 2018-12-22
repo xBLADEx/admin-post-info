@@ -16,10 +16,13 @@ As a developer its hard to identify right away what the permalink for the page o
 This shows the page slug along with the template name if used to identify where and how a page or post is being used at a glance.
 
 == Frequently Asked Questions ==
+N/A
 
 == Changelog ==
 Version: 1.0 - Launch
 
 == Upgrade Notice ==
+N/A
 
 == Screenshots ==
+N/A
